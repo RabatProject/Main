@@ -16,6 +16,7 @@ namespace WindowsFormsApplication1
         {
             // Test 2
             InitializeComponent();
+            
         }
     }
 }
